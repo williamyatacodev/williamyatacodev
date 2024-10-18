@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hola, Soy William 👋
 
-<!--
-**williamyatacodev/williamyatacodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy entusiasta en nuevas tecnologias y retos que se presenten cada dia.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![williamyatacodev's Stats](https://github-readme-stats.vercel.app/api?username=williamyatacodev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
+## Sobre mi
+
+Soy un Softfware Engineer, con mas de 8 años de experiencia en la industria TI. Un gusto.
+
+## Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,aws,docker,terraform,flutter)](https://skillicons.dev)
+
+
+## Me puedes buscar en:
+
+- Contactame en [Linkedin](https://www.linkedin.com/in/williamyataco/)
